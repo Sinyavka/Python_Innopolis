@@ -1,0 +1,24 @@
+Функция ввода
+read
+readline
+input
+print
+2
+Функция вывода
+return
+print
+writeline
+add
+3
+Функция добавления элемента в список
+void Add
+add
+void Clear
+append
+1
+Функция удаления элемента из списка
+void Add
+pop
+void Clear
+remove
+3

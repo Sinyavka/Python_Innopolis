@@ -1,0 +1,17 @@
+Submarin 0 3 True
+Submarin 0 8 True
+Submarin 1 1 True
+Submarin 9 8 True
+Destroyer 4 8 True
+Destroyer 5 3 False
+Destroyer 8 5 True
+Cruiser 4 1 False
+Cruiser 9 1 True
+Battleship 2 3 True
+0 3
+0 9
+4 9
+4 8
+4 8
+9 1
+9 1

@@ -1,0 +1,24 @@
+Функция возведения в степень
+sqrt
+pow
+abs
+step
+2
+Функция ввода
+read
+readline
+input
+print
+3
+Функция нахождения элемента в списке
+find
+index
+indexof
+search
+1
+Функция добавления элемента в список
+append
+add
+put
+push_back
+1
